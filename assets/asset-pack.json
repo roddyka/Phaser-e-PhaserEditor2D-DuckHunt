@@ -1,0 +1,251 @@
+{
+    "section1": {
+        "files": [
+            {
+                "url": "assets/dino.png",
+                "type": "image",
+                "key": "dino"
+            },
+            {
+                "url": "assets/Level.js",
+                "type": "sceneFile",
+                "key": "Level"
+            },
+            {
+                "url": "assets/water2.png",
+                "type": "image",
+                "key": "water2"
+            },
+            {
+                "url": "assets/bg_blue.png",
+                "type": "image",
+                "key": "bg_blue"
+            },
+            {
+                "url": "assets/cloud1.png",
+                "type": "image",
+                "key": "cloud1"
+            },
+            {
+                "url": "assets/cloud2.png",
+                "type": "image",
+                "key": "cloud2"
+            },
+            {
+                "url": "assets/curtain_straight.png",
+                "type": "image",
+                "key": "curtain_straight"
+            },
+            {
+                "url": "assets/duck_brown.png",
+                "type": "image",
+                "key": "duck_brown"
+            },
+            {
+                "url": "assets/duck_target_brown.png",
+                "type": "image",
+                "key": "duck_target_brown"
+            },
+            {
+                "url": "assets/duck_target_white.png",
+                "type": "image",
+                "key": "duck_target_white"
+            },
+            {
+                "url": "assets/duck_target_yellow.png",
+                "type": "image",
+                "key": "duck_target_yellow"
+            },
+            {
+                "url": "assets/duck_white.png",
+                "type": "image",
+                "key": "duck_white"
+            },
+            {
+                "url": "assets/duck_yellow.png",
+                "type": "image",
+                "key": "duck_yellow"
+            },
+            {
+                "url": "assets/grass1.png",
+                "type": "image",
+                "key": "grass1"
+            },
+            {
+                "url": "assets/grass2.png",
+                "type": "image",
+                "key": "grass2"
+            },
+            {
+                "url": "assets/rifle_red.png",
+                "type": "image",
+                "key": "rifle_red"
+            },
+            {
+                "url": "assets/rifle.png",
+                "type": "image",
+                "key": "rifle"
+            },
+            {
+                "url": "assets/shot_yellow_small.png",
+                "type": "image",
+                "key": "shot_yellow_small"
+            },
+            {
+                "url": "assets/target_red1.png",
+                "type": "image",
+                "key": "target_red1"
+            },
+            {
+                "url": "assets/tree_pine.png",
+                "type": "image",
+                "key": "tree_pine"
+            },
+            {
+                "url": "assets/water1.png",
+                "type": "image",
+                "key": "water1"
+            },
+            {
+                "url": "assets/duck_back.png",
+                "type": "image",
+                "key": "duck_back"
+            },
+            {
+                "url": "assets/stick_wood.png",
+                "type": "image",
+                "key": "stick_wood"
+            },
+            {
+                "url": "assets/bg_wood.png",
+                "type": "image",
+                "key": "bg_wood"
+            },
+            {
+                "url": "assets/curtain_top.png",
+                "type": "image",
+                "key": "curtain_top"
+            },
+            {
+                "url": "assets/curtain.png",
+                "type": "image",
+                "key": "curtain"
+            },
+            {
+                "url": "assets/yellow-duck-animation.json",
+                "type": "animation",
+                "key": "yellow-duck-animation"
+            },
+            {
+                "url": "assets/gun-animation.json",
+                "type": "animation",
+                "key": "gun-animation"
+            },
+            {
+                "url": [
+                    "assets/components/Movement.js",
+                    "assets/components/Physics.js"
+                ],
+                "type": "scripts",
+                "key": "Movement"
+            },
+            {
+                "url": "assets/crosshair_blue_small.png",
+                "type": "image",
+                "key": "crosshair_blue_small"
+            },
+            {
+                "url": "assets/crosshair_white_small.png",
+                "type": "image",
+                "key": "crosshair_white_small"
+            },
+            {
+                "url": "assets/crosshair_red_small.png",
+                "type": "image",
+                "key": "crosshair_red"
+            },
+            {
+                "url": "assets/spritesheet_hud.png",
+                "type": "image",
+                "key": "spritesheet_hud"
+            },
+            {
+                "url": "assets/components/WaveMovement.js",
+                "type": "script",
+                "key": "WaveMovement"
+            },
+            {
+                "atlasURL": "assets/spritesheet_hud.xml",
+                "textureURL": "assets/spritesheet_hud.png",
+                "type": "atlasXML",
+                "key": "spritesheet_hud_1"
+            },
+            {
+                "url": "assets/text_0.png",
+                "type": "image",
+                "key": "text_0"
+            },
+            {
+                "url": "assets/text_1.png",
+                "type": "image",
+                "key": "text_1"
+            },
+            {
+                "url": "assets/text_2.png",
+                "type": "image",
+                "key": "text_2"
+            },
+            {
+                "url": "assets/text_3.png",
+                "type": "image",
+                "key": "text_3"
+            },
+            {
+                "url": "assets/text_4.png",
+                "type": "image",
+                "key": "text_4"
+            },
+            {
+                "url": "assets/text_5.png",
+                "type": "image",
+                "key": "text_5"
+            },
+            {
+                "url": "assets/text_6.png",
+                "type": "image",
+                "key": "text_6"
+            },
+            {
+                "url": "assets/text_7.png",
+                "type": "image",
+                "key": "text_7"
+            },
+            {
+                "url": "assets/text_8.png",
+                "type": "image",
+                "key": "text_8"
+            },
+            {
+                "url": "assets/text_9.png",
+                "type": "image",
+                "key": "text_9"
+            },
+            {
+                "url": "assets/text_go.png",
+                "type": "image",
+                "key": "text_go"
+            },
+            {
+                "url": "assets/text_score.png",
+                "type": "image",
+                "key": "text_score"
+            }
+        ]
+    },
+    "meta": {
+        "app": "Phaser Editor 2D - Asset Pack Editor",
+        "contentType": "phasereditor2d.pack.core.AssetContentType",
+        "url": "https://phasereditor2d.com",
+        "version": 2
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "anims": [
+        {
+            "key": "yellow-duck-shoot",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "duck_target_yellow",
+                    "duration": 0
+                },
+                {
+                    "key": "duck_back",
+                    "duration": 0
+                }
+            ],
+            "frameRate": 0,
+            "skipMissedFrames": true,
+            "repeat": 1
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

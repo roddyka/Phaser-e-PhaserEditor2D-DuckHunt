@@ -1,0 +1,25 @@
+{
+    "anims": [
+        {
+            "key": "gun-fire",
+            "type": "frame",
+            "frames": [
+                {
+                    "key": "rifle",
+                    "duration": 0
+                },
+                {
+                    "key": "rifle_red",
+                    "duration": 0
+                }
+            ],
+            "frameRate": 0,
+            "skipMissedFrames": true
+        }
+    ],
+    "globalTimeScale": 1,
+    "meta": {
+        "app": "Phaser Editor 2D v3",
+        "contentType": "Phaser v3 Animations"
+    }
+}

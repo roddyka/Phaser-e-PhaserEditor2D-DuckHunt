@@ -1,0 +1,493 @@
+{
+    "id": "01aefa93-6044-4159-8358-7e91310aa05f",
+    "sceneType": "SCENE",
+    "settings": {
+        "snapEnabled": true,
+        "preloadPackFiles": [],
+        "sceneKey": "Level"
+    },
+    "displayList": [
+        {
+            "type": "Image",
+            "id": "f588fc1f-0600-4f09-b834-8dbeadc8820f",
+            "label": "bg_blue",
+            "components": [],
+            "texture": {
+                "key": "bg_blue"
+            },
+            "x": 408,
+            "y": 212,
+            "scaleX": 4.824090742690887,
+            "scaleY": 3.036468630938655
+        },
+        {
+            "type": "Container",
+            "id": "88b76197-e47b-4d17-a387-439ef4c8fb75",
+            "label": "baclground_wood",
+            "components": [],
+            "x": 272,
+            "y": 208,
+            "list": [
+                {
+                    "type": "Image",
+                    "id": "cd9ef98c-5155-423a-a3aa-5099692edfb4",
+                    "label": "bg_wood_2",
+                    "components": [],
+                    "texture": {
+                        "key": "bg_wood"
+                    },
+                    "scaleX": 1.1008601611198658,
+                    "scaleY": 1.2866104352795176
+                },
+                {
+                    "type": "Image",
+                    "id": "4c322054-9b21-41db-9ec6-bfadc7504f84",
+                    "label": "bg_wood_2_1",
+                    "components": [],
+                    "texture": {
+                        "key": "bg_wood"
+                    },
+                    "x": 272,
+                    "scaleX": 1.1008601611198658,
+                    "scaleY": 1.2866104352795176
+                }
+            ]
+        },
+        {
+            "type": "Container",
+            "id": "f8d8a109-58e5-4655-bfd3-c28b49c4c8d6",
+            "label": "three",
+            "components": [],
+            "x": 112,
+            "y": 208,
+            "list": [
+                {
+                    "type": "Image",
+                    "id": "63de403c-78b0-4d3e-93d2-94067c46ad48",
+                    "label": "tree_pine",
+                    "components": [],
+                    "texture": {
+                        "key": "tree_pine"
+                    },
+                    "x": 608
+                },
+                {
+                    "type": "Image",
+                    "id": "b8273b2e-e026-49dd-9198-d19cc95b62fc",
+                    "label": "tree_pine_1",
+                    "components": [],
+                    "texture": {
+                        "key": "tree_pine"
+                    },
+                    "y": 16
+                }
+            ]
+        },
+        {
+            "type": "Container",
+            "id": "f7182933-555e-4f16-89b9-c80005ca4bc4",
+            "label": "terrain",
+            "components": [],
+            "x": 16,
+            "y": 432,
+            "list": [
+                {
+                    "type": "Image",
+                    "id": "7b2e314e-e3c2-4adf-9abb-72756e8e65f3",
+                    "label": "grass1",
+                    "components": [],
+                    "texture": {
+                        "key": "grass1"
+                    },
+                    "scaleX": 1.451178155416964,
+                    "scaleY": 1.0687715333415622
+                },
+                {
+                    "type": "Image",
+                    "id": "24d24eee-7d24-49ce-bc2f-d0f4cde127b2",
+                    "label": "grass1_1",
+                    "components": [],
+                    "texture": {
+                        "key": "grass1"
+                    },
+                    "x": 192,
+                    "scaleX": 1.451178155416964,
+                    "scaleY": 1.0687715333415622
+                },
+                {
+                    "type": "Image",
+                    "id": "e9484d60-cbd0-4d17-bd75-c3a62b10298d",
+                    "label": "grass1_1_1",
+                    "components": [],
+                    "texture": {
+                        "key": "grass1"
+                    },
+                    "x": 384,
+                    "scaleX": 1.451178155416964,
+                    "scaleY": 1.0687715333415622
+                },
+                {
+                    "type": "Image",
+                    "id": "043188dd-7319-4f8a-b4e3-0ce9b0e3d27c",
+                    "label": "grass1_2",
+                    "components": [],
+                    "texture": {
+                        "key": "grass1"
+                    },
+                    "x": 576,
+                    "scaleX": 1.451178155416964,
+                    "scaleY": 1.0687715333415622
+                },
+                {
+                    "type": "Image",
+                    "id": "b1b13312-7a69-4e96-8bd1-817f5bf0cc89",
+                    "label": "grass1_1_2",
+                    "components": [],
+                    "texture": {
+                        "key": "grass1"
+                    },
+                    "x": 768,
+                    "scaleX": 1.451178155416964,
+                    "scaleY": 1.0687715333415622
+                }
+            ]
+        },
+        {
+            "type": "Container",
+            "id": "94d47661-4c62-4433-ac16-a1acd3585da1",
+            "label": "water",
+            "scope": "CLASS",
+            "components": [],
+            "x": 64,
+            "y": 480,
+            "list": [
+                {
+                    "type": "Image",
+                    "id": "a04095b7-b25c-4d61-ba1f-b4c3e34b216b",
+                    "label": "water1",
+                    "components": [],
+                    "texture": {
+                        "key": "water1"
+                    }
+                },
+                {
+                    "type": "Image",
+                    "id": "9624ccbd-c4c8-40a8-acd5-1d31873d53e3",
+                    "label": "water1_1",
+                    "components": [],
+                    "texture": {
+                        "key": "water1"
+                    },
+                    "x": 128
+                },
+                {
+                    "type": "Image",
+                    "id": "40bef2d1-394d-491b-8236-f04525a90ace",
+                    "label": "water1_1_1",
+                    "components": [],
+                    "texture": {
+                        "key": "water1"
+                    },
+                    "x": 384
+                },
+                {
+                    "type": "Image",
+                    "id": "2041458e-fa6a-4d9e-8df4-1a61ba1c1637",
+                    "label": "water1_2",
+                    "components": [],
+                    "texture": {
+                        "key": "water1"
+                    },
+                    "x": 256
+                },
+                {
+                    "type": "Image",
+                    "id": "494ad87c-c03c-4284-bc24-32c707e25a90",
+                    "label": "water1_1_1_1",
+                    "components": [],
+                    "texture": {
+                        "key": "water1"
+                    },
+                    "x": 768
+                },
+                {
+                    "type": "Image",
+                    "id": "087493dc-2242-4399-88a2-1a2a853efcc8",
+                    "label": "water1_2_1",
+                    "components": [],
+                    "texture": {
+                        "key": "water1"
+                    },
+                    "x": 640
+                },
+                {
+                    "type": "Image",
+                    "id": "f138b4a1-0d24-4229-b888-54fb6ce34111",
+                    "label": "water1_1_2",
+                    "components": [],
+                    "texture": {
+                        "key": "water1"
+                    },
+                    "x": 512
+                }
+            ]
+        },
+        {
+            "type": "Image",
+            "id": "ef33473d-d9fa-4700-87b1-401d5b8de823",
+            "label": "duck_target_yellow",
+            "scope": "CLASS",
+            "components": [],
+            "texture": {
+                "key": "duck_target_yellow"
+            },
+            "x": 160,
+            "y": 384
+        },
+        {
+            "type": "Container",
+            "id": "a3de3f36-b5ac-4ebe-b23c-6b2075d41b47",
+            "label": "water_front",
+            "scope": "CLASS",
+            "components": [
+                "WaveMovement"
+            ],
+            "x": 16,
+            "y": 528,
+            "list": [
+                {
+                    "type": "Image",
+                    "id": "811deae7-292e-4a19-b94e-b65484aad843",
+                    "label": "water2",
+                    "components": [],
+                    "texture": {
+                        "key": "water2"
+                    }
+                },
+                {
+                    "type": "Image",
+                    "id": "78d035e0-f3a9-40c0-8c79-26775f96e1f6",
+                    "label": "water2_1",
+                    "components": [],
+                    "texture": {
+                        "key": "water2"
+                    },
+                    "x": 128
+                },
+                {
+                    "type": "Image",
+                    "id": "e9bd89fa-ab77-4352-8a7f-0ed6c2a9c1c0",
+                    "label": "water2_1_1",
+                    "components": [],
+                    "texture": {
+                        "key": "water2"
+                    },
+                    "x": 256
+                },
+                {
+                    "type": "Image",
+                    "id": "c2101534-07d6-45ca-b99d-f89d2591e0bf",
+                    "label": "water2_1_1_1",
+                    "components": [],
+                    "texture": {
+                        "key": "water2"
+                    },
+                    "x": 384
+                },
+                {
+                    "type": "Image",
+                    "id": "1e26fb8b-b716-4970-aec2-f68aae4c20d4",
+                    "label": "water2_1_1_1_1",
+                    "components": [],
+                    "texture": {
+                        "key": "water2"
+                    },
+                    "x": 512
+                },
+                {
+                    "type": "Image",
+                    "id": "ed90b1fd-6118-4dab-a78b-332405c52dd2",
+                    "label": "water2_1_1_1_1_1",
+                    "components": [],
+                    "texture": {
+                        "key": "water2"
+                    },
+                    "x": 640
+                },
+                {
+                    "type": "Image",
+                    "id": "cad13b47-3d33-4672-bf02-c260cd200738",
+                    "label": "water2_1_1_1_1_1_1",
+                    "components": [],
+                    "texture": {
+                        "key": "water2"
+                    },
+                    "x": 768
+                }
+            ]
+        },
+        {
+            "type": "Container",
+            "id": "f3c5f228-c6bc-4dbe-9a7d-c120f19dbf8c",
+            "label": "woods",
+            "components": [],
+            "x": 32,
+            "y": 576,
+            "list": [
+                {
+                    "type": "Image",
+                    "id": "ee268f49-186d-4e4e-ab2e-51afa584f555",
+                    "label": "bg_wood",
+                    "components": [],
+                    "texture": {
+                        "key": "bg_wood"
+                    },
+                    "y": 27,
+                    "scaleX": 1.5879640452542592
+                },
+                {
+                    "type": "Image",
+                    "id": "2ea3fdf4-34ce-474c-a4a0-d0c301e6857a",
+                    "label": "bg_wood_1",
+                    "components": [],
+                    "texture": {
+                        "key": "bg_wood"
+                    },
+                    "x": 368,
+                    "y": 55,
+                    "scaleX": 1.5879640452542592
+                },
+                {
+                    "type": "Image",
+                    "id": "3d7e287c-0926-4b95-9ce6-03cd87aef94e",
+                    "label": "bg_wood_1_1",
+                    "components": [],
+                    "texture": {
+                        "key": "bg_wood"
+                    },
+                    "x": 694,
+                    "scaleX": 1.5879640452542592
+                }
+            ]
+        },
+        {
+            "type": "Container",
+            "id": "b8c19d3c-d294-457a-92e5-1e2d7cfb6b8c",
+            "label": "curtain",
+            "components": [],
+            "x": 77,
+            "y": 33,
+            "list": [
+                {
+                    "type": "Image",
+                    "id": "24b5bf54-7f3e-4f4e-bf54-d24ffe7a62fe",
+                    "label": "curtain_2",
+                    "components": [],
+                    "texture": {
+                        "key": "curtain"
+                    },
+                    "x": -13,
+                    "y": 191
+                },
+                {
+                    "type": "Image",
+                    "id": "d57485c0-54ae-41d8-86c5-7fd43ce04f52",
+                    "label": "curtain_straight",
+                    "components": [],
+                    "texture": {
+                        "key": "curtain_straight"
+                    },
+                    "scaleX": 1.2802640347550998
+                },
+                {
+                    "type": "Image",
+                    "id": "85156114-ca5c-40fe-a3f2-831b87275be1",
+                    "label": "curtain_straight_1",
+                    "components": [],
+                    "texture": {
+                        "key": "curtain_straight"
+                    },
+                    "x": 328,
+                    "scaleX": 1.2802640347550998
+                },
+                {
+                    "type": "Image",
+                    "id": "ee32455c-9867-4b52-b5e2-504f76d756fd",
+                    "label": "curtain_1",
+                    "components": [],
+                    "texture": {
+                        "key": "curtain"
+                    },
+                    "x": 659,
+                    "y": 191,
+                    "scaleX": -1
+                },
+                {
+                    "type": "Image",
+                    "id": "28de656e-6bc7-4ae6-8ff7-75a2a213674d",
+                    "label": "curtain_straight_1_1",
+                    "components": [],
+                    "texture": {
+                        "key": "curtain_straight"
+                    },
+                    "x": 656,
+                    "scaleX": 1.2802640347550998
+                }
+            ]
+        },
+        {
+            "type": "Container",
+            "id": "911a5e81-b325-495c-85eb-5c5e08b077dc",
+            "label": "gun",
+            "components": [
+                "Movement",
+                "Physics"
+            ],
+            "x": 368,
+            "y": 352,
+            "list": [
+                {
+                    "type": "Image",
+                    "id": "dbb51af4-bdcd-4764-8767-2769edb6102d",
+                    "label": "crosshair",
+                    "scope": "CLASS",
+                    "components": [],
+                    "texture": {
+                        "key": "crosshair_white_small"
+                    },
+                    "x": 16
+                },
+                {
+                    "type": "Image",
+                    "id": "c747cbed-ad55-4970-a430-cb17914e552b",
+                    "label": "rifle",
+                    "scope": "CLASS",
+                    "components": [],
+                    "texture": {
+                        "key": "rifle"
+                    },
+                    "x": 96,
+                    "y": 128,
+                    "scaleX": 0.5910274413994765,
+                    "scaleY": 0.5910274413994765
+                }
+            ]
+        },
+        {
+            "type": "Image",
+            "id": "3191dcd7-a79c-46f6-a543-075d80035731",
+            "label": "text_score",
+            "components": [],
+            "texture": {
+                "key": "text_score"
+            },
+            "x": 128,
+            "y": 64
+        }
+    ],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType"
+    }
+}
